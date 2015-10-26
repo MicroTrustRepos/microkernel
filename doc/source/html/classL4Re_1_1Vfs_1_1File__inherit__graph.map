@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node11" href="$classL4Re_1_1Vfs_1_1Be__file.html" title="Boiler plate class for implementing an open file for L4Re::Vfs." alt="" coords="280,657,419,1586"/>
+<area shape="rect" id="node2" href="$classL4Re_1_1Vfs_1_1Generic__file.html" title="The common interface for an open POSIX file." alt="" coords="5,34,163,273"/>
+<area shape="rect" id="node4" href="$classL4Re_1_1Vfs_1_1Regular__file.html" title="Interface for a POSIX file that provides regular file semantics." alt="" coords="187,6,341,301"/>
+<area shape="rect" id="node6" href="$classL4Re_1_1Vfs_1_1Directory.html" title="Interface for a POSIX file that is a directory." alt="" coords="365,15,504,291"/>
+<area shape="rect" id="node8" href="$classL4Re_1_1Vfs_1_1Special__file.html" title="Interface for a POSIX file that provides special file semantics." alt="" coords="528,99,683,207"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node7" href="$classL4_1_1Kobject__t.html" title="{L4::Kobject_t\&lt; Event, L4::Icu, L4Re::Protocol::Event \&gt;\n|+ Protocol\l|}" alt="" coords="5,633,344,722"/>
+<area shape="rect" id="node11" href="$classL4_1_1Kobject__t.html" title="{L4::Kobject_t\&lt; Scheduler, Icu, L4_PROTO_SCHEDULER \&gt;\n|+ Protocol\l|}" alt="" coords="368,633,733,722"/>
+<area shape="rect" id="node15" href="$classL4_1_1Kobject__t.html" title="{L4::Kobject_t\&lt; Vcon, Icu, L4_PROTO_LOG \&gt;\n|+ Protocol\l|}" alt="" coords="757,633,1040,722"/>
+<area shape="rect" id="node2" href="$classL4_1_1Kobject__t.html" title="{L4::Kobject_t\&lt; Icu, Irq_eio, L4_PROTO_IRQ \&gt;\n|+ Protocol\l|}" alt="" coords="405,163,696,253"/>
+<area shape="rect" id="node4" href="$classL4_1_1Kobject__t.html" title="Helper class to create an L4Re interface class that is derived from a single base class..." alt="" coords="423,6,679,95"/>
+<area shape="rect" id="node9" href="$classL4Re_1_1Event.html" title="Event class." alt="" coords="88,774,261,994"/>
+<area shape="rect" id="node13" href="$classL4_1_1Scheduler.html" title="Scheduler object." alt="" coords="500,783,601,985"/>
+<area shape="rect" id="node17" href="$classL4_1_1Vcon.html" title="C++ L4 Vcon." alt="" coords="852,774,945,994"/>
+<area shape="rect" id="node19" href="$classL4_1_1Kobject__t.html" title="{L4::Kobject_t\&lt; Log, L4::Vcon, L4_PROTO_LOG \&gt;\n|+ Protocol\l|}" alt="" coords="745,1046,1052,1135"/>
+<area shape="rect" id="node21" href="$classL4Re_1_1Log.html" title="Log interface class." alt="" coords="852,1187,945,1351"/>
+</map>

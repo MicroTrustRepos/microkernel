@@ -1,0 +1,44 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classL4_1_1Kobject__t.html" title="{L4::Kobject_t\&lt; Ipc_gate, Kobject, L4_PROTO_KOBJECT \&gt;\n|+ Protocol\l|}" alt="" coords="5,163,365,253"/>
+<area shape="rect" id="node7" href="$classL4_1_1Kobject__t.html" title="{L4::Kobject_t\&lt; Namespace, L4::Kobject, L4Re::Protocol::Namespace \&gt;\n|+ Protocol\l|}" alt="" coords="389,163,824,253"/>
+<area shape="rect" id="node11" href="$classL4_1_1Kobject__t.html" title="{L4::Kobject_t\&lt; Parent, L4::Kobject, L4Re::Protocol::Parent \&gt;\n|+ Protocol\l|}" alt="" coords="848,163,1219,253"/>
+<area shape="rect" id="node15" href="$classL4_1_1Kobject__t.html" title="{L4::Kobject_t\&lt; Irq_eio, Kobject, L4_PROTO_IRQ \&gt;\n|+ Protocol\l|}" alt="" coords="1243,163,1557,253"/>
+<area shape="rect" id="node17" href="$classL4_1_1Kobject__t.html" title="{L4::Kobject_t\&lt; Factory, Kobject, L4_PROTO_FACTORY \&gt;\n|+ Protocol\l|}" alt="" coords="1581,163,1936,253"/>
+<area shape="rect" id="node21" href="$classL4_1_1Kobject__t.html" title="{L4::Kobject_t\&lt; Task, Kobject, L4_PROTO_TASK \&gt;\n|+ Protocol\l|}" alt="" coords="2011,163,2325,253"/>
+<area shape="rect" id="node25" href="$classL4_1_1Kobject__t.html" title="{L4::Kobject_t\&lt; Vm, Task, L4_PROTO_VM \&gt;\n|+ Protocol\l|}" alt="" coords="2013,830,2291,919"/>
+<area shape="rect" id="node29" href="$classL4_1_1Kobject__t.html" title="{L4::Kobject_t\&lt; Debug_obj, L4::Kobject, Protocol::Debug \&gt;\n|+ Protocol\l|}" alt="" coords="2404,163,2761,253"/>
+<area shape="rect" id="node33" href="$classL4_1_1Kobject__t.html" title="{L4::Kobject_t\&lt; Vm, Kobject, L4_PROTO_VM \&gt;\n|+ Protocol\l|}" alt="" coords="2193,278,2484,367"/>
+<area shape="rect" id="node36" href="$classL4_1_1Kobject__t.html" title="{L4::Kobject_t\&lt; Event, L4::Icu, L4Re::Protocol::Event \&gt;\n|+ Protocol\l|}" alt="" coords="2365,830,2704,919"/>
+<area shape="rect" id="node40" href="$classL4_1_1Kobject__t.html" title="{L4::Kobject_t\&lt; Rm, L4::Kobject, L4Re::Protocol::Rm \&gt;\n|+ Protocol\l|}" alt="" coords="3320,163,3656,253"/>
+<area shape="rect" id="node44" href="$classL4_1_1Kobject__t.html" title="{L4::Kobject_t\&lt; Log, L4::Vcon, L4_PROTO_LOG \&gt;\n|+ Protocol\l|}" alt="" coords="3248,1243,3555,1333"/>
+<area shape="rect" id="node48" href="$classL4_1_1Kobject__t.html" title="{L4::Kobject_t\&lt; Vcon, Icu, L4_PROTO_LOG \&gt;\n|+ Protocol\l|}" alt="" coords="3117,830,3400,919"/>
+<area shape="rect" id="node53" href="$classL4_1_1Kobject__t.html" title="{L4::Kobject_t\&lt; Meta, Kobject, L4_PROTO_META \&gt;\n|+ Protocol\l|}" alt="" coords="3680,163,3997,253"/>
+<area shape="rect" id="node57" href="$classL4_1_1Kobject__t.html" title="{L4::Kobject_t\&lt; Dataspace, L4::Kobject, L4Re::Protocol::Dataspace \&gt;\n|+ Protocol\l|}" alt="" coords="4021,163,4443,253"/>
+<area shape="rect" id="node62" href="$classL4_1_1Kobject__t.html" title="{L4::Kobject_t\&lt; Debugger, Kobject, L4_PROTO_DEBUGGER \&gt;\n|+ Protocol\l|}" alt="" coords="4467,163,4848,253"/>
+<area shape="rect" id="node66" href="$classL4_1_1Kobject__t.html" title="{L4::Kobject_t\&lt; Mem_alloc, L4::Kobject, L4Re::Protocol::Mem_alloc \&gt;\n|+ Protocol\l|}" alt="" coords="4872,163,5293,253"/>
+<area shape="rect" id="node70" href="$classL4_1_1Kobject__t.html" title="{L4::Kobject_t\&lt; Thread, Kobject, L4_PROTO_THREAD \&gt;\n|+ Protocol\l|}" alt="" coords="5317,163,5664,253"/>
+<area shape="rect" id="node74" href="$classL4_1_1Kobject__t.html" title="{L4::Kobject_t\&lt; Irq, Irq_eio, L4_PROTO_IRQ \&gt;\n|+ Protocol\l|}" alt="" coords="5688,163,5973,253"/>
+<area shape="rect" id="node78" href="$classL4_1_1Kobject__t.html" title="{L4::Kobject_t\&lt; Scheduler, Icu, L4_PROTO_SCHEDULER \&gt;\n|+ Protocol\l|}" alt="" coords="2728,830,3093,919"/>
+<area shape="rect" id="node82" href="$classL4_1_1Kobject__t.html" title="{L4::Kobject_t\&lt; Icu, Irq_eio, L4_PROTO_IRQ \&gt;\n|+ Protocol\l|}" alt="" coords="2904,163,3195,253"/>
+<area shape="rect" id="node89" href="$classL4_1_1Kobject__t.html" title="{L4::Kobject_t\&lt; Goos, L4::Kobject, L4Re::Protocol::Goos \&gt;\n|+ Protocol\l|}" alt="" coords="5997,163,6355,253"/>
+<area shape="rect" id="node5" href="$classL4_1_1Ipc__gate.html" title="L4 IPC gate." alt="" coords="131,495,240,659"/>
+<area shape="rect" id="node9" href="$classL4Re_1_1Namespace.html" title="Name&#45;space interface." alt="" coords="543,458,671,697"/>
+<area shape="rect" id="node13" href="$classL4Re_1_1Parent.html" title="Parent interface." alt="" coords="985,495,1081,659"/>
+<area shape="rect" id="node19" href="$classL4_1_1Factory.html" title="C++ L4 Factory, to create all kinds of kernel objects." alt="" coords="1696,449,1821,706"/>
+<area shape="rect" id="node23" href="$classL4_1_1Task.html" title="An L4 Task." alt="" coords="2105,430,2231,725"/>
+<area shape="rect" id="node27" href="$classL4_1_1Vm.html" title="Virtual machine." alt="" coords="2229,981,2323,1182"/>
+<area shape="rect" id="node31" href="$classL4Re_1_1Debug__obj.html" title="Debug interface." alt="" coords="2441,505,2561,650"/>
+<area shape="rect" id="node38" href="$classL4Re_1_1Event.html" title="Event class." alt="" coords="2448,971,2621,1191"/>
+<area shape="rect" id="node42" href="$classL4Re_1_1Rm.html" title="Region map." alt="" coords="3475,393,3592,762"/>
+<area shape="rect" id="node46" href="$classL4Re_1_1Log.html" title="Log interface class." alt="" coords="3355,1385,3448,1549"/>
+<area shape="rect" id="node50" href="$classL4_1_1Vcon.html" title="C++ L4 Vcon." alt="" coords="3283,971,3376,1191"/>
+<area shape="rect" id="node55" href="$classL4_1_1Meta.html" title="Meta interface that shall be implemented by each L4Re object and gives access to the dynamic type inf..." alt="" coords="3773,486,3904,669"/>
+<area shape="rect" id="node59" href="$classL4Re_1_1Dataspace.html" title="This class represents a data space." alt="" coords="4171,402,4293,753"/>
+<area shape="rect" id="node64" href="$classL4_1_1Debugger.html" title="Debugger interface." alt="" coords="4587,477,4728,678"/>
+<area shape="rect" id="node68" href="$classL4Re_1_1Mem__alloc.html" title="Memory allocator." alt="" coords="5021,495,5144,659"/>
+<area shape="rect" id="node72" href="$classL4_1_1Thread.html" title="L4 kernel thread." alt="" coords="5405,411,5576,743"/>
+<area shape="rect" id="node76" href="$classL4_1_1Irq.html" title="C++ version of an L4 IRQ." alt="" coords="5784,449,5877,706"/>
+<area shape="rect" id="node80" href="$classL4_1_1Scheduler.html" title="Scheduler object." alt="" coords="2860,981,2961,1182"/>
+<area shape="rect" id="node84" href="$classL4_1_1Icu.html" title="C++ version of an interrupt controller." alt="" coords="3004,439,3103,715"/>
+<area shape="rect" id="node91" href="$classL4Re_1_1Video_1_1Goos.html" title="A goos." alt="" coords="6107,439,6245,715"/>
+</map>

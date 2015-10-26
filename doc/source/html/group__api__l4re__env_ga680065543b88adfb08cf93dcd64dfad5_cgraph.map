@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$group__api__l4re__env.html#gaddb9bb8bebd0d3803c8e8e727b90d109" title="Get L4Re initial environment (C version)." alt="" coords="213,5,283,35"/>
+<area shape="rect" id="node5" href="$group__api__l4re__env.html#ga1c1f0fbb44269dfc3509dcee4b22aa89" title="Get the capability selector for the object named name." alt="" coords="179,58,317,89"/>
+<area shape="rect" id="node7" href="$group__api__l4re__env.html#gacc49b0ad0a813fbb9430458e1215024d" title="Get the full l4re_env_cap_entry_t for the object named name." alt="" coords="367,58,500,89"/>
+</map>

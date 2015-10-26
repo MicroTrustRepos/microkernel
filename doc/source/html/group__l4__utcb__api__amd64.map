@@ -1,0 +1,5 @@
+<map id="structs" name="structs">
+<area shape="rect" id="node1" href="$group__l4__utcb__api__x86.html" title="x86 Virtual Registers (UTCB)" alt="" coords="569,5,759,35"/>
+<area shape="rect" id="node2" href="$group__l4__utcb__api.html" title="L4 Virtual Registers (UTCB)." alt="" coords="5,31,176,62"/>
+<area shape="rect" id="node4" href="$group__l4__utcb__api__arm.html" title="ARM Virtual Registers (UTCB)" alt="" coords="565,58,763,89"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="structs" name="structs">
+<area shape="rect" id="node1" href="$group__l4__scheduler__api.html" title="Scheduler object." alt="" coords="312,5,392,35"/>
+<area shape="rect" id="node2" href="$group__l4__irq__api.html" title="The IRQ and IRQ class." alt="" coords="327,58,377,89"/>
+<area shape="rect" id="node3" href="$group__l4__thread__api.html" title="Thread object." alt="" coords="321,111,383,142"/>
+<area shape="rect" id="node4" href="$group__l4__icu__api.html" title="The ICU class." alt="" coords="289,165,415,195"/>
+<area shape="rect" id="node5" href="$group__l4__vm__api.html" title="Virtual Machine API." alt="" coords="293,218,411,249"/>
+<area shape="rect" id="node6" href="$group__l4__kernel__object__gate__api.html" title="Secure comminication object." alt="" coords="301,271,403,302"/>
+<area shape="rect" id="node7" href="$group__l4__factory__api.html" title="A factory is used to create all kinds of kernel objects." alt="" coords="319,325,385,355"/>
+<area shape="rect" id="node8" href="$group__l4__vcon__api.html" title="Virtual console for simple character based input and output." alt="" coords="297,378,407,409"/>
+<area shape="rect" id="node9" href="$group__l4__api.html" title="Interfaces for all kinds of base functionality." alt="" coords="7,218,84,249"/>
+<area shape="rect" id="node11" href="$group__l4__task__api.html" title="Class definition of the Task kernel object." alt="" coords="327,431,377,462"/>
+</map>

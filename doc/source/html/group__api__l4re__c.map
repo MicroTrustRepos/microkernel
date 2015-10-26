@@ -1,0 +1,13 @@
+<map id="structs" name="structs">
+<area shape="rect" id="node1" href="$group__api__l4re__c__util.html" title="Documentation of the L4 Runtime Environment utility functionality in C." alt="" coords="180,5,321,35"/>
+<area shape="rect" id="node3" href="$group__api__l4re__c__ns.html" title="Namespace C interface." alt="" coords="179,58,323,89"/>
+<area shape="rect" id="node4" href="$group__api__l4re__c__debug.html" title="Debug interface" alt="" coords="195,111,307,142"/>
+<area shape="rect" id="node5" href="$group__api__l4re__c__util__cap.html" title="Capability allocator C interface." alt="" coords="185,165,316,195"/>
+<area shape="rect" id="node6" href="$group__api__l4re__c__video.html" title="Video API" alt="" coords="211,218,291,249"/>
+<area shape="rect" id="node7" href="$group__api__l4re__c__rm.html" title="Region map C interface." alt="" coords="179,271,323,302"/>
+<area shape="rect" id="node8" href="$group__api__l4re__c__util__kumem__alloc.html" title="Kumem allocator utility C interface." alt="" coords="173,325,328,355"/>
+<area shape="rect" id="node9" href="$group__api__l4re__c__log.html" title="Log C interface." alt="" coords="203,378,299,409"/>
+<area shape="rect" id="node10" href="$group__api__l4re__c__event.html" title="Event C interface." alt="" coords="196,431,305,462"/>
+<area shape="rect" id="node11" href="$group__api__l4re__c__ds.html" title="Dataspace C interface." alt="" coords="181,485,320,515"/>
+<area shape="rect" id="node12" href="$group__api__l4re__c__mem__alloc.html" title="Memory allocator C interface." alt="" coords="189,538,312,569"/>
+</map>

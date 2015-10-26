@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structl4__vcpu__ipc__regs__t.html" title="vCPU message registers." alt="" coords="9,602,143,785"/>
+<area shape="rect" id="node4" href="$structl4__msgtag__t.html" title="Message tag data structure." alt="" coords="5,6,147,301"/>
+<area shape="rect" id="node6" href="$structl4__vcpu__regs__t.html" title="vCPU registers." alt="" coords="167,369,276,1018"/>
+</map>

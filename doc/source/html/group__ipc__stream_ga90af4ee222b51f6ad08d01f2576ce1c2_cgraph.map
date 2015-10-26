@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classL4_1_1Ipc_1_1Buf__cp__out.html#a8db318f94ecb6ff53b613adc4d6b1dd2" title="Get the pointer to the array." alt="" coords="141,5,304,35"/>
+<area shape="rect" id="node5" href="$classL4_1_1Ipc_1_1Ostream.html#a9126fd9f4bf60133eef4edb021da5cab" title="Put an array with size elements of type T into the stream." alt="" coords="149,58,296,89"/>
+<area shape="rect" id="node7" href="$classL4_1_1Ipc_1_1Buf__cp__out.html#a8dfe5cdbfeb6b0f0352a50dae5d0a0a6" title="Get the number of elements in the array." alt="" coords="139,111,307,142"/>
+</map>
